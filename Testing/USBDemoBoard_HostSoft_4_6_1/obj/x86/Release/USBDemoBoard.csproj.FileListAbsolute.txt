@@ -1,0 +1,16 @@
+C:\Hiruna\sem6\co326\USB-project\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\bin\Release\USBDemoBoard.exe
+C:\Hiruna\sem6\co326\USB-project\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\bin\Release\USBDemoBoard.pdb
+C:\Hiruna\sem6\co326\USB-project\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Hiruna\sem6\co326\USB-project\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Release\USBDemoBoard.Form1.resources
+C:\Hiruna\sem6\co326\USB-project\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Release\USBDemoBoard.Properties.Resources.resources
+C:\Hiruna\sem6\co326\USB-project\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Release\USBDemoBoard.csproj.GenerateResource.Cache
+C:\Hiruna\sem6\co326\USB-project\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Release\USBDemoBoard.exe
+C:\Hiruna\sem6\co326\USB-project\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Release\USBDemoBoard.pdb
+C:\Hiruna\sem6\co326\USB-project\testing\USBDemoBoard_HostSoft_4_6_1\obj\x86\Release\USBDemoBoard.exe
+C:\Hiruna\sem6\co326\USB-project\testing\USBDemoBoard_HostSoft_4_6_1\obj\x86\Release\USBDemoBoard.pdb
+C:\Hiruna\sem6\co326\USB-project\testing\USBDemoBoard_HostSoft_4_6_1\bin\Release\USBDemoBoard.exe
+C:\Hiruna\sem6\co326\USB-project\testing\USBDemoBoard_HostSoft_4_6_1\bin\Release\USBDemoBoard.pdb
+C:\Hiruna\sem6\co326\USB-project\testing\USBDemoBoard_HostSoft_4_6_1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Hiruna\sem6\co326\USB-project\testing\USBDemoBoard_HostSoft_4_6_1\obj\x86\Release\USBDemoBoard.Form1.resources
+C:\Hiruna\sem6\co326\USB-project\testing\USBDemoBoard_HostSoft_4_6_1\obj\x86\Release\USBDemoBoard.Properties.Resources.resources
+C:\Hiruna\sem6\co326\USB-project\testing\USBDemoBoard_HostSoft_4_6_1\obj\x86\Release\USBDemoBoard.csproj.GenerateResource.Cache

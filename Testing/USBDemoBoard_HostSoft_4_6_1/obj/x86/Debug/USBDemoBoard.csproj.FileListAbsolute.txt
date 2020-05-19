@@ -1,0 +1,8 @@
+C:\Hiruna\sem6\co326\USB-project\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Hiruna\sem6\co326\USB-project\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Debug\USBDemoBoard.Form1.resources
+C:\Hiruna\sem6\co326\USB-project\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Debug\USBDemoBoard.Properties.Resources.resources
+C:\Hiruna\sem6\co326\USB-project\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Debug\USBDemoBoard.csproj.GenerateResource.Cache
+C:\Hiruna\sem6\co326\USB-project\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\bin\Debug\USBDemoBoard.exe
+C:\Hiruna\sem6\co326\USB-project\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\bin\Debug\USBDemoBoard.pdb
+C:\Hiruna\sem6\co326\USB-project\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Debug\USBDemoBoard.exe
+C:\Hiruna\sem6\co326\USB-project\Updated_PIC_18F4550_USB_Demo_Board-master\USBDemoBoard_HostSoft_4_6_1\obj\x86\Debug\USBDemoBoard.pdb
