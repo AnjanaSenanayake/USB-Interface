@@ -1,4 +1,4 @@
-# USB-Interface
+# General Purpose Input Output Board Using USB-Interface
 
 Communication via USB is the most popular mode of interfacing nowadays. Almost all the peripherals that have other kind of interfacing (serial port, parallel port..) are converting the ports to be compatible with USB. Building a general USB interface that can later be extended to industrial components handling is of major concern. Because of this reason leaders in microcontroller designing have explicitly designed microchips that can support USB protocol. This attempt is to program one such microchip to build a general I/O board. The board will be hereafter referred as the GIOB. GIOB has the following features. 
 
@@ -14,6 +14,6 @@ To start with the project, we are going to refer ​USB interface to the PIC Mic
 
 More infomation can be found in the documentation.
 
-# Original sources
-https://www.youtube.com/watch?v=WO99avWTujs
-https://github.com/MicrocontrollersAndMore/Updated_PIC_18F4550_USB_Demo_Board
+### Original sources
+1. https://www.youtube.com/watch?v=WO99avWTujs
+2. https://github.com/MicrocontrollersAndMore/Updated_PIC_18F4550_USB_Demo_Board
