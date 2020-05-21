@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-01-21T03:17:16Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "sc"
+        },
+        "Owner": "Hiruna Madushan <hiruna72@gmail.com>",
+        "Size": {
+            "X": 67.055,
+            "Y": 42.14
+        }
+    }
+}
