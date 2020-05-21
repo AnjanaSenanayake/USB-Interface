@@ -12,4 +12,4 @@ To design GIOB we use the PIC18F4550 USB module which is a 8 bit PIC microcontro
 
 To start with the project, we are going to refer ​USB interface to the PIC Microcontroller  Then, extend the design and the concept to more generalized plug and play I/O interface with maximum data lines possible.
 
-More infomation can be found on the documentation.
+More infomation can be found in the documentation.
